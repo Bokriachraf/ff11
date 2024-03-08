@@ -8,6 +8,7 @@ const data = {
             price:125,
             brand:"nike",
             rating:4.5,
+            NumReviews:1293,
         },{
             _id:'2',
             name:"adidas slim ",
